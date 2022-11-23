@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.Increment-btn {
+  background-color: #007bff;
+  padding: 8px;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+.counterValue {
+  color: #c20a72;
+}
+.p {
+  font-weight: 400;
+  font-family: 'Robot';
+}
